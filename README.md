@@ -1,16 +1,37 @@
-# Scale institutional knowledge using Copilot Spaces
+# OctoAcme Project Management Docs
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+This repository consolidates OctoAcme's program and project management guidance in one place so teams can quickly find the process, role expectations, and operating rhythm for work from idea to release.
 
-Hey albbarrio19!
+## Project management approach
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+OctoAcme manages work through a simple lifecycle:
 
-Remember, it's self-paced so feel free to take a break! ☕️
+- Initiate: confirm the need, align stakeholders, define success measures, and decide whether to move forward.
+- Plan: define scope, backlog, milestones, dependencies, estimates, owners, and risks.
+- Execute: deliver iteratively, track progress, manage blockers, and maintain quality through reviews and testing.
+- Release: verify readiness, deploy with safeguards, communicate updates, and prepare for rollback if needed.
+- Close and improve: capture lessons, turn them into action items, and improve the process over time.
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/albbarrio19/skills-scale-institutional-knowledge-using-copilot-spaces/issues/1)
+Project Managers coordinate delivery, schedule, communication, and risk management. Product Managers define outcomes and prioritize value. Cross-functional teams collaborate on execution, quality, and delivery.
 
----
+## Process documents
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+- [Project Management Overview](docs/octoacme-project-management-overview.md)
+- [Project Initiation](docs/octoacme-project-initiation.md)
+- [Project Planning](docs/octoacme-project-planning.md)
+- [Execution and Tracking](docs/octoacme-execution-and-tracking.md)
+- [Risk Management and Communication](docs/octoacme-risks-and-communication.md)
+- [Release and Deployment](docs/octoacme-release-and-deployment.md)
+- [Retrospective and Continuous Improvement](docs/octoacme-retrospective-and-continuous-improvement.md)
+- [Roles and Personas](docs/octoacme-roles-and-personas.md)
 
+## How to use these docs
+
+- Start with the [Project Management Overview](docs/octoacme-project-management-overview.md) for the high-level model.
+- Use initiation and planning docs before a project starts or a major initiative begins.
+- Use execution, risk, and release docs during delivery.
+- Use retrospectives to capture improvement actions and keep learning visible.
+
+## Suggested entry point for new teammates
+
+New teammates should read the overview first, then use the relevant process doc for the phase of work they are supporting. This keeps the guidance practical, lightweight, and aligned with the team's operating rhythm.
